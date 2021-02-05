@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Priya\\Documents\\DMU YEAR 3\\FYP\\05-02\\fyp\\FirstYearComputing\\FirstYearComputing\\FirstYearComputing.csproj": {}
+    "C:\\Users\\Priya\\Documents\\DMU YEAR 3\\FYP\\06-02\\fyp\\FirstYearComputing\\FirstYearComputing\\FirstYearComputing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Priya\\Documents\\DMU YEAR 3\\FYP\\05-02\\fyp\\FirstYearComputing\\FirstYearComputing\\FirstYearComputing.csproj": {
+    "C:\\Users\\Priya\\Documents\\DMU YEAR 3\\FYP\\06-02\\fyp\\FirstYearComputing\\FirstYearComputing\\FirstYearComputing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Priya\\Documents\\DMU YEAR 3\\FYP\\05-02\\fyp\\FirstYearComputing\\FirstYearComputing\\FirstYearComputing.csproj",
+        "projectUniqueName": "C:\\Users\\Priya\\Documents\\DMU YEAR 3\\FYP\\06-02\\fyp\\FirstYearComputing\\FirstYearComputing\\FirstYearComputing.csproj",
         "projectName": "FirstYearComputing",
-        "projectPath": "C:\\Users\\Priya\\Documents\\DMU YEAR 3\\FYP\\05-02\\fyp\\FirstYearComputing\\FirstYearComputing\\FirstYearComputing.csproj",
+        "projectPath": "C:\\Users\\Priya\\Documents\\DMU YEAR 3\\FYP\\06-02\\fyp\\FirstYearComputing\\FirstYearComputing\\FirstYearComputing.csproj",
         "packagesPath": "C:\\Users\\Priya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Priya\\Documents\\DMU YEAR 3\\FYP\\05-02\\fyp\\FirstYearComputing\\FirstYearComputing\\obj\\",
+        "outputPath": "C:\\Users\\Priya\\Documents\\DMU YEAR 3\\FYP\\06-02\\fyp\\FirstYearComputing\\FirstYearComputing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
