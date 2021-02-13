@@ -46,7 +46,7 @@ ul.breadcrumb {
 #course-title {
     padding-left: 10px;
     position:absolute;
-    top:50%;
+    top:40%;
     background: white;
 }
 
@@ -63,6 +63,7 @@ ul.breadcrumb {
     width:1200px;*/
     /*text-align:center;*/
     border: 1px solid white;
+    object-fit:fill;
     
 }
 

@@ -8,31 +8,28 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Priya\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/priyadesai/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Priya\\Documents\\DMU YEAR 3\\FYP\\10-02-21\\FirstYearComputingWebsite\\FirstYearComputingWebsite\\FirstYearComputingWebsite.csproj",
+      "projectUniqueName": "/Users/priyadesai/Documents/DMU YEAR 3/fyp code/FirstYearComputingWebsite/FirstYearComputingWebsite/FirstYearComputingWebsite.csproj",
       "projectName": "FirstYearComputingWebsite",
-      "projectPath": "C:\\Users\\Priya\\Documents\\DMU YEAR 3\\FYP\\10-02-21\\FirstYearComputingWebsite\\FirstYearComputingWebsite\\FirstYearComputingWebsite.csproj",
-      "packagesPath": "C:\\Users\\Priya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Priya\\Documents\\DMU YEAR 3\\FYP\\10-02-21\\FirstYearComputingWebsite\\FirstYearComputingWebsite\\obj\\",
+      "projectPath": "/Users/priyadesai/Documents/DMU YEAR 3/fyp code/FirstYearComputingWebsite/FirstYearComputingWebsite/FirstYearComputingWebsite.csproj",
+      "packagesPath": "/Users/priyadesai/.nuget/packages/",
+      "outputPath": "/Users/priyadesai/Documents/DMU YEAR 3/fyp code/FirstYearComputingWebsite/FirstYearComputingWebsite/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Priya\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/priyadesai/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -68,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
       }
     }
   }
