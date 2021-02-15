@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/priyadesai/Documents/DMU YEAR 3/fyp code/FirstYearComputingWebsite/FirstYearComputingWebsite/FirstYearComputingWebsite.csproj": {}
+    "/Users/priyadesai/Documents/DMU YEAR 3/fyp code/fyp/FirstYearComputingWebsite/FirstYearComputingWebsite/FirstYearComputingWebsite.csproj": {}
   },
   "projects": {
-    "/Users/priyadesai/Documents/DMU YEAR 3/fyp code/FirstYearComputingWebsite/FirstYearComputingWebsite/FirstYearComputingWebsite.csproj": {
+    "/Users/priyadesai/Documents/DMU YEAR 3/fyp code/fyp/FirstYearComputingWebsite/FirstYearComputingWebsite/FirstYearComputingWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/priyadesai/Documents/DMU YEAR 3/fyp code/FirstYearComputingWebsite/FirstYearComputingWebsite/FirstYearComputingWebsite.csproj",
+        "projectUniqueName": "/Users/priyadesai/Documents/DMU YEAR 3/fyp code/fyp/FirstYearComputingWebsite/FirstYearComputingWebsite/FirstYearComputingWebsite.csproj",
         "projectName": "FirstYearComputingWebsite",
-        "projectPath": "/Users/priyadesai/Documents/DMU YEAR 3/fyp code/FirstYearComputingWebsite/FirstYearComputingWebsite/FirstYearComputingWebsite.csproj",
+        "projectPath": "/Users/priyadesai/Documents/DMU YEAR 3/fyp code/fyp/FirstYearComputingWebsite/FirstYearComputingWebsite/FirstYearComputingWebsite.csproj",
         "packagesPath": "/Users/priyadesai/.nuget/packages/",
-        "outputPath": "/Users/priyadesai/Documents/DMU YEAR 3/fyp code/FirstYearComputingWebsite/FirstYearComputingWebsite/obj/",
+        "outputPath": "/Users/priyadesai/Documents/DMU YEAR 3/fyp code/fyp/FirstYearComputingWebsite/FirstYearComputingWebsite/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
