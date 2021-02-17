@@ -6,6 +6,6 @@
     <title></title>
 </head>
 <body>
-
+<asp:Button id="btnSubmit" runat="server" OnClick="btnSubmit_Click" Text="SUBMIT" />
 </body>
 </html>
